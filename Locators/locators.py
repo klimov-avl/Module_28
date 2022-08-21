@@ -44,4 +44,4 @@ class Locators:
     close_the_form_css_selector = 'body > div.fancybox-wrap.fancybox-desktop.fancybox-type-iframe.fancybox-opened > div > div.fancybox-item.fancybox-close'
     articles_xpath = '//*[@id="footer"]/div[1]/div[2]/ul/li[4]/a'
     top_logo_css_selector = '#logo > a'
-    button_buy_vint1_xpath = '//*[@id="indicator_catalog"]/div[1]/div[1]/div/button[1]'.
+    button_buy_vint1_xpath = '//*[@id="indicator_catalog"]/div[1]/div[1]/div/button[1]'
