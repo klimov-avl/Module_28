@@ -1,4 +1,4 @@
-# для фикстур
+# для фикстур.
 # python -m pytest -v --html=.\Reports\report.html --driver Chrome --driver-path C:\Users\Александр\PycharmProjects\Projects1\chromedriver.exe Tests\login.py
 from selenium import webdriver
 import time
