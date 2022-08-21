@@ -1,4 +1,4 @@
-# страница авторизации
+# страница авторизации.
 from selenium.webdriver.common.by import By
 from Locators.locators import Locators
 
