@@ -1,4 +1,4 @@
-# страница пользовательского профиля
+# страница пользовательского профиля.
 from selenium.webdriver.common.by import By
 from Locators.locators import Locators
 
